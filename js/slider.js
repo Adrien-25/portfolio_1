@@ -1,6 +1,6 @@
 
-$(".image--works").append('<a class="prev" onclick="plusSlides(-1)">&#10094;</a>');
-$(".image--works").append('<a class="next" onclick="plusSlides(1)">&#10095;</a>');
+$(".image--works").append('<a href="#" class="prev" onclick="plusSlides(-1)">&#10094;</a>');
+$(".image--works").append('<a href="#" class="next" onclick="plusSlides(1)">&#10095;</a>');
 
 // Projects slider settings
 var slideIndex = 1;
