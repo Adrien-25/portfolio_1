@@ -1240,7 +1240,7 @@ header .global-nav__sns a:last-child{
 }
 /* Image page projets */
 .image--works:hover{
-    
+    transform: scale(0.5); 
 }
 .image--ampoule{
     background:url(../img/projet1.jpg) no-repeat center;
